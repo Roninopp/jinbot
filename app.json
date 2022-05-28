@@ -43,7 +43,7 @@
             "description": "Get From Here.https://www.mongodb.com/",
             "required": true
         },
-        "BASE_DB": {
+        "DATABASE_URL": {
             "description": "Get From Here.https://www.mongodb.com/ (Same as MONGO_URL but give differant value for this) ",
             "required": true
         },
